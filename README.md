@@ -4,7 +4,7 @@
 
 ### 🎮 게임 개발 입문자 & 🐍 파이썬 개발 입문자
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=게임+개발;파이썬+개발+입문자+입니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baloo+2&weight=700&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=게임+개발;파이썬+개발+입문자+입니다.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Weo0o0?style=social)](https://github.com/Weo0o0)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/Weo0o0_?style=social)](https://x.com/Weo0o0_)
