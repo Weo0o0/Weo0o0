@@ -89,12 +89,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weo0o0&layout=compact&theme=radical" alt="사용 언어" height="170">
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Weo0o0&theme=radical)](https://git.io/streak-stats)
-  
-</div>
-
 ## 💡 관심 분야
 <div align="center">
   <table>
