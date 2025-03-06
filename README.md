@@ -37,20 +37,20 @@
 </div>
 
 ## 📚 학습 자료
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://learn.unity.com/"><img src="https://img.shields.io/badge/Unity-학습%20로드맵-black?style=flat-square&logo=unity&logoColor=white" alt="Unity 공식 튜토리얼"></a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.youtube.com/c/Brackeys"><img src="https://img.shields.io/badge/YouTube-Brackeys-red?style=flat-square&logo=youtube&logoColor=white" alt="Brackeys YouTube 채널"></a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.udemy.com/course/best-3d-c-unity/"><img src="https://img.shields.io/badge/Udemy-C%23과%20Unity로%203D%20게임%20개발하기-blue?style=flat-square&logo=udemy&logoColor=white" alt="유데미 C#과 Unity로 3D 게임 개발하기"></a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.udemy.com/course/math-gamedev/"><img src="https://img.shields.io/badge/Udemy-게임%20수학-blue?style=flat-square&logo=udemy&logoColor=white" alt="게임 수학"></a>
     </td>
   </tr>
@@ -146,6 +146,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
-  ![방문자 수](https://visitor-badge.glitch.me/badge?page_id=Weo0o0.Weo0o0)
-</div>
-
