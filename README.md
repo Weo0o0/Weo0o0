@@ -14,21 +14,6 @@ Unity와 C#으로 **3D 캐주얼·EdTech 게임**을 만들며, Python으로 개
 
 ---
 
-## GitHub Analytics
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Weo0o0&theme=github_dark&title_color=00FF88&icon_color=00FF88&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&animation=none" alt="My GitHub Statistics" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Weo0o0&theme=github_dark&title_color=00FF88&icon_color=00FF88&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&animation=none&exclude_repos=Weo0o0.github.io" alt="My Programming Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## My Projects
 
 <!-- HOW TO ADD: 아래 td 블록 복사 후 REPO_NAME 교체
@@ -61,6 +46,21 @@ Unity와 C#으로 **3D 캐주얼·EdTech 게임**을 만들며, Python으로 개
     </td>
     <td width="50%" valign="top">
       <!-- NEW_PROJECT: Python repo pin 카드 추가 -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Weo0o0&theme=github_dark&title_color=00FF88&icon_color=00FF88&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&animation=none" alt="My GitHub Statistics" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Weo0o0&theme=github_dark&title_color=00FF88&icon_color=00FF88&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&animation=none&exclude_repos=Weo0o0.github.io" alt="My Programming Languages" />
     </td>
   </tr>
 </table>
