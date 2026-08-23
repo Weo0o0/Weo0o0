@@ -14,24 +14,53 @@ Unity와 C#으로 **3D 캐주얼·EdTech 게임**을 만들며, Python으로 개
 
 ---
 
-## Featured Project
+## GitHub Analytics
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Weo0o0&theme=github_dark&title_color=00FF88&icon_color=00FF88&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&animation=none" alt="My GitHub Statistics" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Weo0o0&theme=github_dark&title_color=00FF88&icon_color=00FF88&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&animation=none&exclude_repos=Weo0o0.github.io" alt="My Programming Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## My Projects
+
+<!-- HOW TO ADD: 아래 td 블록 복사 후 REPO_NAME 교체
+<a href="https://github.com/Weo0o0/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Weo0o0&repo=REPO_NAME&theme=dark&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88&border_color=30363D" alt="REPO_NAME" />
+</a>
+-->
+
+#### Unity & Games
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Weo0o0/powerball-simulation">
-        <img src="https://github.com/Weo0o0/powerball-simulation/assets/MAIN/demo.gif" alt="Powerball demo" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Weo0o0&repo=powerball-simulation&theme=dark&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88&border_color=30363D" alt="powerball-simulation" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎱 Powerball Simulation</h3>
-      <p>Unity PhysX 기반 3D 파워볼 추첨 시뮬레이션</p>
-      <ul>
-        <li><b>Stack:</b> Unity, C#, PhysX</li>
-        <li><b>역할:</b> 1인 기획·구현·테스트</li>
-        <li><b>핵심:</b> 물리 기반 추첨 + 결과 검증</li>
-      </ul>
-      <a href="https://github.com/Weo0o0/powerball-simulation"><b>Repository →</b></a>
+      <!-- NEW_PROJECT: Unity repo pin 카드 추가 -->
+    </td>
+  </tr>
+</table>
+
+#### Python & Tools
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- NEW_PROJECT: Python repo pin 카드 추가 -->
+    </td>
+    <td width="50%" valign="top">
+      <!-- NEW_PROJECT: Python repo pin 카드 추가 -->
     </td>
   </tr>
 </table>
